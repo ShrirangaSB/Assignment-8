@@ -1,1 +1,3 @@
-# Assignment-8
+Session 8
+HIVE BASICS
+Assignment 1
